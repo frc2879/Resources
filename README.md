@@ -10,7 +10,7 @@ There's a well made video about FIRST and the different competitions on a page c
 
 ####Important Dates for us
 **Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). *2016 FIRST Robotics Competition Kickoff*.
-This is when we find out all the technical details of what our robot needs to accomplish.  
+This is when we find out all the technical details of what our robot needs to accomplish.  This is also when we can start building our competition robot.  Up to thus point all we can do is work on prototype robots.
 
 **Tuesday, February 23, 2016**, 11:59 PM (Central). *Stop Build time*.  All teams must stop work on the robot and seal it,using the bag and tag provided in the 2016 Kit of Parts.  So, we have 45 days to design, build, program, and test our robot.  Then, it needs to be trapped in a bag until...
 
