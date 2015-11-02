@@ -2,7 +2,7 @@
 Links and Tools for the team
 
 ##FIRST
-The orgranization that puts together the competitions and infrastructure for us is [FIRST](http://www.usfirst.org) (which means * **F**or **I**nspiration and **R**ecognition in **S**cience and **T**echnology*).  They coordinate competitions for many skill levels and types, so here's a direct link to the page for our section, the [FIRST Robotics Competition](http://www.usfirst.org/roboticsprograms/frc) (FRC).  This is the page to check for announcements about our competition task.
+The orgranization that puts together the competitions and infrastructure for us is [FIRST](http://www.usfirst.org) (which means "**F**or **I**nspiration and **R**ecognition in **S**cience and **T**echnology").  They coordinate competitions for many skill levels and types, so here's a direct link to the page for our section, the [FIRST Robotics Competition](http://www.usfirst.org/roboticsprograms/frc) (FRC).  This is the page to check for announcements about our competition task.
 
 There's a well made video about FIRST and the different competitions on a page called [RoboLeague Documentary](http://www.usfirst.org/roboticsprograms/frc/roboleague2015) that showcases the 2015 FIRST Championship.  It's well worth the 50 minutes of time to watch.
 
@@ -17,7 +17,7 @@ This is when we find out all the technical details of what our robot needs to ac
 **Wednesday, April 6 to Saturday, April 9, 2016**. *Competition!*  In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose on our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
 
 ## Forums and Communities
-- [FIRST Blog](http://www.usfirst.org/roboticsprograms/frc/blog) is the official blog of the FIRST Robotics Competition.  It contains helpful answers to various questions teams have submitted about rules.
+- [FIRST Blog](http://www.usfirst.org/roboticsprograms/frc/blog) is the official blog of the FIRST Robotics Competition.  It contains helpful answers to various questions teams have submitted about rules.  They occasionally make posts about competition rules changes before the competition starts here.
 - [Chief Delphi](http://www.chiefdelphi.com/forums/portal.php) is a unofficial gathering place of different FIRST teams to discuss the FIRST competitions. It contains plenty of gossip, but appears to have a lot of helpful information on technical matters as well.
 - [FIRST Forums](http://forums.usfirst.org/forum.php) is the offical FIRST forums, the place for official discussions about FIRST programs and mission. It is not used nearly as much as Chief Delphi
 - [reddit /r/FRC](https://www.reddit.com/r/frc) is a subreddit for anything and everything related to the FIRST Robotics Competition.
