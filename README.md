@@ -16,8 +16,8 @@ This is when we find out all the technical details of what our robot needs to ac
 
 **Wednesday, April 6 to Saturday, April 9, 2016**. In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose in our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
 
-###Chief Delphis
-There's a portal I've seen mentioned when I've searched for information about US First and FRC
+###Chief Delphi
+There's a portal I've seen mentioned when I've searched for information about US First and FRC called [Chief Delphi](http://www.chiefdelphi.com/forums/portal.php).  This appears to be an unofficial gathering place of different US First teams.  It contains plenty of gossip, but appears to have a lot of helpful information on technical matters as well.
 
 ## Communication
 
