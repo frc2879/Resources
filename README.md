@@ -8,7 +8,7 @@ There's a well made video about FIRST and the competitions called [RoboLeague Do
 
 [There's a calendar of important FRC dates on the site.](http://www.usfirst.org/roboticsprograms/frc/calendar/list)
 
-####Important Dates
+####Important Dates for us
 **Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). 2016 FIRST Robotics Competition Kickoff.
 This is when we find out all the technical details of what our robot needs to accomplish.  
 
