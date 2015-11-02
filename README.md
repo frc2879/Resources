@@ -24,6 +24,7 @@ This is when we find out all the technical details of what our robot needs to ac
 
 ## Other FRC Related Websites
 - [The Blue Alliance](http://www.thebluealliance.com/) - FRC team information, event results, and videos
+  - They also have a great [Android app](https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient)
 
 ## Communication
 
