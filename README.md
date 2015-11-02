@@ -30,7 +30,7 @@ This is when we find out all the technical details of what our robot needs to ac
 
 - Private team chatroom: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frc2879)
 
-## Software Tools
+## Development Tools
 
 - [Java](https://www.oracle.com/java/index.html)
   - [Java SE 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
