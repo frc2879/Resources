@@ -56,3 +56,6 @@ This is when we find out all the technical details of what our robot needs to ac
 - [OpenRIO](https://github.com/Open-RIO) - A group of people have been working on tools and libraries that will help make building robots for the the FRC easier and more flexible.  They have several projects that we'll be using for this season's competition, including:
  - [Toast](https://github.com/Open-RIO/ToastAPI) - An expandable, Open Source and Cross-Platform Robot API for FRC built on WPILib
  - [HotPlate](https://github.com/Open-RIO/HotPlate) - CLI for the creation of Toast modules
+- WPILib
+  - The WPI Robotics library (WPILib) is a set of software classes that interfaces with the hardware and software in your FRC robot’s control system. 
+  - This is the offical library for use with FRC.
