@@ -8,7 +8,7 @@ There's a well made documentary about US First and the competitions called [Robo
 
 [There's a calendar of important FRC dates on the site.](http://www.usfirst.org/roboticsprograms/frc/calendar/list)
 
-#### Important Dates
+####Important Dates
 **Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). 2016 FIRST Robotics Competition Kickoff.
 This is when we find out all the technical details of what our robot needs to accomplish.  
 
@@ -40,5 +40,7 @@ There's a portal I've seen mentioned when I've searched for information about US
 
 ## APIs and Libraries
 
-- [Toast](https://github.com/Open-RIO/ToastAPI) - An expandable, Open Source and Cross-Platform Robot API for FRC built on WPILib
-  - [HotPlate](https://github.com/Open-RIO/HotPlate) - CLI for the creation of Toast modules
+- [OpenRIO](https://github.com/Open-RIO) - A group of people (including our own Paul) have been working on tools and libraries that will help make building robots for the the FRC easier and more flexible.  They have several projects that we'll be working with for this season's competition, including:
+ - [Toast](https://github.com/Open-RIO/ToastAPI) - An expandable, Open Source and Cross-Platform Robot API for FRC built on WPILib
+ - [HotPlate](https://github.com/Open-RIO/HotPlate) - CLI for the creation of Toast modules
+ - [ToastLUA](https://github.com/Open-RIO/ToastLUA) - Lua is a programming language that been used successfully in "scripting" several commercial games.  We'll be using this version to quickly add functionality to our robot when we find out which other teams will be in our alliance once the competition starts.
