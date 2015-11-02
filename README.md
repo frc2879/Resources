@@ -19,3 +19,8 @@ Links and Tools for the team
   - You can use the command line Git client or a GUI based one like these:
     - [GitHub Desktop](https://desktop.github.com/)
     - [SourceTree](https://www.sourcetreeapp.com/)
+
+## APIs and Libraries
+
+- [Toast](https://github.com/Open-RIO/ToastAPI) - An expandable, Open Source and Cross-Platform Robot API for FRC built on WPILib
+  - [HotPlate](https://github.com/Open-RIO/HotPlate) - CLI for the creation of Toast modules
