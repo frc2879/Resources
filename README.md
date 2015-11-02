@@ -9,12 +9,12 @@ There's a well made video about FIRST and the competitions called [RoboLeague Do
 [There's a calendar of important FRC dates on the site.](http://www.usfirst.org/roboticsprograms/frc/calendar/list)
 
 ####Important Dates for us
-**Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). 2016 FIRST Robotics Competition Kickoff.
+**Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). *2016 FIRST Robotics Competition Kickoff*.
 This is when we find out all the technical details of what our robot needs to accomplish.  
 
-**Tuesday, February 23, 2016**, 11:59 PM (Central). Stop Build time.  All teams must stop work on the robot and seal it,using the bag and tag provided in the 2016 Kit of Parts.  So, we have 45 days to design, build, program, and test our robot.  Then, it needs to be trapped in a bag until...
+**Tuesday, February 23, 2016**, 11:59 PM (Central). *Stop Build time*.  All teams must stop work on the robot and seal it,using the bag and tag provided in the 2016 Kit of Parts.  So, we have 45 days to design, build, program, and test our robot.  Then, it needs to be trapped in a bag until...
 
-**Wednesday, April 6 to Saturday, April 9, 2016**. In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose in our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
+**Wednesday, April 6 to Saturday, April 9, 2016**. *Competition!*  In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose in our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
 
 ## Forums and Communities
 - [FIRST Blog](http://www.usfirst.org/roboticsprograms/frc/blog) is the official blog of the FIRST Robotics Competition.  It contains helpful answers to various questions teams have submitted about rules.
