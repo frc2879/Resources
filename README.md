@@ -1,6 +1,10 @@
 # Resources
 Links and Tools for the team
 
+## Communication
+
+- Private team chatroom: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frc2879)
+
 ## Software Tools
 
 - [Java](https://www.oracle.com/java/index.html)
