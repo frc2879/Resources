@@ -4,7 +4,7 @@ Links and Tools for the team
 ##FIRST
 The orgranization that puts together the competitions and infrastructure for us is [FIRST](http://www.usfirst.org).  They coordinate competitions for many skill levels and types, so here's a direct link to the page for our section, the [FIRST Robotics Competition](http://www.usfirst.org/roboticsprograms/frc) (FRC).  This is the page to check for announcements about our competition task.
 
-There's a well made video about FIRST and the competitions called [RoboLeague Documentary](http://www.usfirst.org/roboticsprograms/frc/roboleague2015) that showcases the 2015 FIRST Championship.  It's well worth the 50 minutes of time to watch.
+There's a well made video about FIRST and the different competitions on a page called [RoboLeague Documentary](http://www.usfirst.org/roboticsprograms/frc/roboleague2015) that showcases the 2015 FIRST Championship.  It's well worth the 50 minutes of time to watch.
 
 [There's a calendar of important FRC dates on the site.](http://www.usfirst.org/roboticsprograms/frc/calendar/list)
 
