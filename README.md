@@ -2,7 +2,7 @@
 Links and Tools for the team
 
 ##FIRST
-The orgranization that puts together the competitions and infrastructure for us is [FIRST](http://www.usfirst.org).  They coordinate competitions for many skill levels and types, so here's a direct link to the page for our section, the [FIRST Robotics Competition](http://www.usfirst.org/roboticsprograms/frc) (FRC).  This is the page to check for announcements about our competition task.
+The orgranization that puts together the competitions and infrastructure for us is [FIRST](http://www.usfirst.org) (which stands for *For Inspiration and Recognition in Science and Technology*).  They coordinate competitions for many skill levels and types, so here's a direct link to the page for our section, the [FIRST Robotics Competition](http://www.usfirst.org/roboticsprograms/frc) (FRC).  This is the page to check for announcements about our competition task.
 
 There's a well made video about FIRST and the different competitions on a page called [RoboLeague Documentary](http://www.usfirst.org/roboticsprograms/frc/roboleague2015) that showcases the 2015 FIRST Championship.  It's well worth the 50 minutes of time to watch.
 
@@ -12,9 +12,9 @@ There's a well made video about FIRST and the different competitions on a page c
 **Saturday, January 9, 2016**, 10:30-11:30 AM (ET) (9:30-10:30 Central). *2016 FIRST Robotics Competition Kickoff*.
 This is when we find out all the technical details of what our robot needs to accomplish.  This is also when we can start building our competition robot.  Up to thus point all we can do is work on prototype robots.
 
-**Tuesday, February 23, 2016**, 11:59 PM (Central). *Stop Build time*.  All teams must stop work on the robot and seal it,using the bag and tag provided in the 2016 Kit of Parts.  So, we have 45 days to design, build, program, and test our robot.  Then, it needs to be trapped in a bag until...
+**Tuesday, February 23, 2016**, 11:59 PM (Central). *Stop Build time*.  All teams must stop work on the robot and seal it, using the bag and tag provided in the 2016 Kit of Parts.  So, we have 45 days to design, build, program, and test our robot.  Then, it needs to be trapped in a bag until...
 
-**Wednesday, April 6 to Saturday, April 9, 2016**. *Competition!*  In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose in our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
+**Wednesday, April 6 to Saturday, April 9, 2016**. *Competition!*  In Williams Arena at the University of Minnesota. So, after 6 weeks of being isolated and alone, we let our robot loose on our competition.  There are about 60 teams registered for our competition.  During the same time, there will also be 60 more teams competing across the street from where we are, in Mariucci Arena.
 
 ## Forums and Communities
 - [FIRST Blog](http://www.usfirst.org/roboticsprograms/frc/blog) is the official blog of the FIRST Robotics Competition.  It contains helpful answers to various questions teams have submitted about rules.
