@@ -30,7 +30,9 @@ This is when we find out all the technical details of what our robot needs to ac
 
 - Private team chatroom: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frc2879)
 
-## Development Tools
+## Robot Programming Resources
+
+### Development Tools
 
 - [Java](https://www.oracle.com/java/index.html)
   - [Java SE 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
@@ -45,7 +47,7 @@ This is when we find out all the technical details of what our robot needs to ac
     - [GitHub Desktop](https://desktop.github.com/)
     - [SourceTree](https://www.sourcetreeapp.com/)
 
-## APIs and Libraries
+### APIs and Libraries
 
 - [OpenRIO](https://github.com/Open-RIO) - A group of people have been working on tools and libraries that will help make building robots for the the FRC easier and more flexible.  They have several projects that we'll be using for this season's competition, including:
  - [Toast](https://github.com/Open-RIO/ToastAPI) - An expandable, Open Source and Cross-Platform Robot API for FRC built on WPILib
