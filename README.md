@@ -37,13 +37,17 @@ This is when we find out all the technical details of what our robot needs to ac
 - [Java](https://www.oracle.com/java/index.html)
   - [Java SE 8 Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
     - You will need the Java SE Development Kit (JDK) 8
+    - Java 8 is installed on the RoboRIO and to take advantage of all the features it offers, it is suggested that you use Java 8 on your development system.
 - [Eclipse](https://eclipse.org/)
+  - Eclipse is the application we use to write and test our code. It has many features that make it more nicer to use over for example, a standard text editor, like code completion, error detection, and project organization.
   - You only need to install the "Eclipse IDE for Java Developers"
-  - It is recommended to use the installer provided [here](https://eclipse.org/downloads/)
+  - It is recommended to use the installer provided [here](https://eclipse.org/downloads/):
     - [Windows download (64 bit)](https://eclipse.org/downloads/download.php?file=/oomph/epp/mars/R1a/eclipse-inst-win64.exe&r=1)
     - [Mac Download](https://eclipse.org/downloads/download.php?file=/oomph/epp/mars/R1a/eclipse-inst-mac64.tar.gz&r=1)
 - [Git](https://git-scm.com/)
-  - You can use the command line Git client or a GUI based one like these:
+  - Git is the verison control system we use. It allows colaboration between team members and keeps track of changes to the code.
+  - Eclipse has a Git client built in which is what we will use most of the time
+  - There is also the normal command line Git client or GUI based ones like these:
     - [GitHub Desktop](https://desktop.github.com/)
     - [SourceTree](https://www.sourcetreeapp.com/)
 
