@@ -6,7 +6,7 @@ The orgranization that puts together the competitions and infrastructure for us 
 
 [There's a calendar of important FRC dates on the site.](http://www.firstinspires.org/robotics/frc/calendar)
 
-###Important Dates for us
+### Important Dates for us
 **Saturday, January 7, 2017**, 10:30-11:30 AM (ET) (9:30-10:30 Central). *2017 FIRST Robotics Competition Kickoff*.
 This is when we find out all the technical details of what our robot needs to accomplish.  This is also when we can start building our competition robot.  Up to thus point all we can do is work on prototype robots.
 
